@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Diksha 👋
+## Hi, I'm Diksha 👋
 
 Software Engineer focused on Linux runtime environments, C++ development, and system-level debugging.
 
