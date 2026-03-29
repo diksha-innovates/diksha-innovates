@@ -55,7 +55,7 @@ Working on Linux-based runtime systems, debugging complex issues, and building r
 
 ###
 
-<h3 align="left">🤝 Connect</h3>
+<h3 align="left"> 🤝 Connect</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diksha-creates-impact/">
@@ -63,6 +63,9 @@ Working on Linux-based runtime systems, debugging complex issues, and building r
   </a>
   <a href="mailto:diksha.codes.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://medium.com/@diksha-writes">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
