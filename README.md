@@ -57,14 +57,15 @@ Working on Linux-based runtime systems, debugging complex issues, and building r
 
 <h3 align="left">🤝 Connect</h3>
 
-<div align="left">
-  <a href="(https://www.linkedin.com/in/diksha-creates-impact/)">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/diksha-creates-impact/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="diksha.codes.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <a href="mailto:diksha.codes.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
 
 ###
 
