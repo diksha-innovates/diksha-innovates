@@ -23,18 +23,6 @@
 Working on Linux-based runtime systems, debugging complex issues, and building reliable system-level components.
 </p>
 
-###
-
-<div align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-###
 
 <!-- Pacman Contribution Graph -->
 <picture>
