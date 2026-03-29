@@ -38,12 +38,6 @@ Git, GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diksha-innovates&show_icons=true)
-
----
-
 ## 👯 Collaboration
 
 Open to collaborating on:
