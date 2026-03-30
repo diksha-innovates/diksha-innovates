@@ -26,7 +26,7 @@ Working on Linux-based runtime systems, debugging complex issues, and building r
 
 <!-- Pacman Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/output/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/output/pacman-contribution-graph.svg" />
 </p>
 
 
