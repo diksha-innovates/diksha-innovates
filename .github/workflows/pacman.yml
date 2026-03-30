@@ -5,25 +5,23 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Pacman graph
-        uses: Platane/snk@v3
+      - name: Generate Pacman animation
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: diksha-innovates
-          outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
+          username: diksha-innovates
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
