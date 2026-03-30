@@ -1,22 +1,26 @@
-name: Generate Pacman Graph
+name: Pacman Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman graph
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: diksha-innovates
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
