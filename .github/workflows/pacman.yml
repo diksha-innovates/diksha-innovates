@@ -1,9 +1,7 @@
-name: Pacman Graph
+name: Pacman
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -12,13 +10,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman
+      - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: diksha-innovates
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
