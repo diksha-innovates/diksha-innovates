@@ -3,23 +3,28 @@ name: Pacman
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "17 0 * * *"   # once a day
+  push:
+    branches: [main]
+    paths: [".github/workflows/pacman.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pacman-graph
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Pacman Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: diksha-innovates
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
