@@ -1,0 +1,26 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ readme-skin-2 ]
+    paths: [ ".github/workflows/summary-cards.yml" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: diksha-innovates
+          BRANCH_NAME: "readme-skin-2"
+          TIME_ZONE: "Asia/Kolkata"
+          ANIMATION: "rgb-soft"
+          DURATION: "5"
+          AUTO_PUSH: true
