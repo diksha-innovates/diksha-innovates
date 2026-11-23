@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Hi%2C%20I%27m%20Diksha%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Building%20ML-powered%20Search%20%26%20Recommenders&descAlignY=58&descSize=18&descColor=E2E8F0&animation=fadeIn" alt="header" width="100%" />
-</p>
+<h1 align="center">Hi, I'm Diksha 👋</h1>
+<h3 align="center">Systems Engineer • Building ML-powered Search & Recommenders</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,numpy,pandas,jupyter" />
@@ -68,5 +67,3 @@
 <p align="center">
 Badminton, walking, singing, writing, and showing up to tech events.
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" alt="footer" width="100%" />
