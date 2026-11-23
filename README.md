@@ -21,6 +21,11 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/readme-skin-2/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/readme-skin-2/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+</p>
+
 ---
 
 ### ⚙️ About Me
