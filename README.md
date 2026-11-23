@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Diksha 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+C%2B%2B+%26+Linux+Runtime+Systems;Building+ML-powered+Search+%26+Recommenders+on+the+side;Two-Tower+Recommenders+%2B+Hybrid+Search+%2B+Signal+Processing;Shipping+projects+with+real+benchmarks%2C+not+vibes" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Hi,%20I'm%20Diksha%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Building%20ML-powered%20Search%20%26%20Recommenders&descAlignY=58&descSize=18&descColor=E2E8F0&animation=fadeIn" alt="header" width="100%" />
 </p>
 
 <div align="center">
@@ -14,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile&card_width=420" alt="Most used languages" />
 </p>
 
 ---
@@ -70,3 +68,5 @@
 <p align="center">
 Badminton, walking, singing, writing, and showing up to tech events.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" alt="footer" width="100%" />
