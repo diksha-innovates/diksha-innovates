@@ -1,61 +1,74 @@
-<h1 align="center">Hey 👋 I am Diksha. What's Up?</h1>
+<h1 align="center">Hi, I'm Diksha 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+C%2B%2B+%26+Linux+Runtime+Systems;Building+ML-powered+Search+%26+Recommenders+on+the+side;Two-Tower+Recommenders+%2B+Hybrid+Search+%2B+Signal+Processing;Shipping+projects+with+real+benchmarks%2C+not+vibes" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,docker,numpy,pandas,sklearn" />
 </div>
 
-###
-
-<h3 align="center">Software Engineer | Linux Runtime | C++ Development</h3>
-
 <p align="center">
-Working on Linux-based runtime systems, debugging complex issues, and building reliable system-level components.
+<b>Day job:</b> C++ runtime components for Linux-based HMI display systems.<br/>
+<b>Off the clock:</b> building production-structured ML systems end to end — recommenders, hybrid search, signal processing — with honest baselines and real numbers.
 </p>
 
-
-<!-- Pacman Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
+---
 
-
-###
-
-<h3 align="left">⚙️ About Me</h3>
+### ⚙️ About Me
 
 <ul>
-  <li>🔭 Working on C++ runtime components for HMI display systems (display manager, resolution handling)</li>
-  <li>🐧 Debugging Linux-based systems, services, and runtime issues</li>
-  <li>⚡ Automating workflows using Bash scripting</li>
-  <li>🌱 Learning advanced Linux internals, C++, and exploring cloud technologies</li>
+  <li>🔭 By day: C++ runtime components for HMI display systems (display manager, resolution handling), debugging Linux services at the system level.</li>
+  <li>🧠 By choice: designing and shipping ML systems end-to-end — not notebooks, actual services with APIs, tests, and benchmarks.</li>
+  <li>📈 I care about <b>measured</b> improvements over vibes — every side project ships with a baseline, an ablation, and a number that survives an interview question.</li>
+  <li>🌱 Currently sharpening: ML system design, retrieval & ranking at scale, and the production side of applied ML (serving, evaluation, pgvector).</li>
+  <li>🎯 Working toward <b>Applied ML / Search &amp; Recommendation Systems</b> roles — this profile is the paper trail for that move.</li>
 </ul>
 
-###
+---
 
-<h3 align="left">📌 Focus Areas</h3>
+### 🚀 Featured Builds
 
-<ul>
-  <li>System debugging & runtime analysis</li>
-  <li>Linux service management & process-level understanding</li>
-  <li>C++ system-level development</li>
-  <li>Automation & reliability engineering</li>
-</ul>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-###
+**[🎯 ReelRank](https://github.com/diksha-innovates/reelrank)**
 
-<h3 align="left"> 🤝 Connect</h3>
+Two-tower short-video recommender, pure NumPy (hand-written backprop), from scratch.
+
+- Recall@10: **0.012 → 0.080** (+558%) via logQ bias correction + a tuned popularity prior
+- Beats a popularity baseline by **+21%**
+- 82-case test suite, 3-seed ablation, served through a tested API with a cold-start endpoint
+
+![Python](https://img.shields.io/badge/python-3.10+-blue) ![Tests](https://img.shields.io/badge/tests-82%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
+
+</td>
+<td width="50%" valign="top">
+
+**[🔍 Dhoondo (ढूँढो)](https://github.com/diksha-innovates/dhoondo)**
+
+"Go find it" — hybrid search engine for Instagram reels you saved or reposted, built because Instagram's own Saved tab has no search box.
+
+- Hybrid ranking: word + typo-tolerant character n-grams + topic signals, optional embedding similarity
+- Privacy-first: no login, no password, works entirely from your own data export
+- Dockerized FastAPI service, deploy-ready for Render / Railway / Fly.io
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker) ![License](https://img.shields.io/badge/license-MIT-green)
+
+</td>
+</tr>
+</table>
+
+> **🕵️ Caught & fixed:** My [Sleep-EEG analysis](https://github.com/diksha-innovates/Sleep-Analysis-Using-EEG-Signals) started as a Kaggle notebook whose "model accuracy" was fit on `np.random.randn()` and reported via `random.uniform(85, 95)`. I rebuilt it into a real, modular pipeline — genuine hypnogram labels, a real classifier, six honestly-evaluated forecasting models. Numbers you can trust beat numbers that merely look good.
+
+---
+
+### 🤝 Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diksha-creates-impact/">
@@ -69,11 +82,10 @@ Working on Linux-based runtime systems, debugging complex issues, and building r
   </a>
 </div>
 
+---
 
-###
+### ⚡ Beyond the terminal
 
-<h3 align="left">⚡ Fun Fact</h3>
-
-<p>
-I balance tech with non-tech — badminton, walking, networking, writing, singing, music, and attending tech events.
+<p align="center">
+Badminton, walking, singing, writing, and showing up to tech events.
 </p>
