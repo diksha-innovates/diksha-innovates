@@ -17,6 +17,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile&card_width=420" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+</p>
+
 ---
 
 ### ⚙️ About Me
