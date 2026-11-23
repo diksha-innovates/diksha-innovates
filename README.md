@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,docker,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,numpy,pandas,jupyter" />
 </div>
 
 <p align="center">
@@ -31,15 +31,9 @@
 
 ---
 
-### 🚀 Featured Builds
+### 🚀 Featured Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🎯 ReelRank](https://github.com/diksha-innovates/reelrank)**
-
-Two-tower short-video recommender, pure NumPy (hand-written backprop), from scratch.
+**[🎯 ReelRank](https://github.com/diksha-innovates/reelrank)** — Two-tower short-video recommender, pure NumPy (hand-written backprop), from scratch.
 
 - Recall@10: **0.012 → 0.080** (+558%) via logQ bias correction + a tuned popularity prior
 - Beats a popularity baseline by **+21%**
@@ -47,24 +41,11 @@ Two-tower short-video recommender, pure NumPy (hand-written backprop), from scra
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![Tests](https://img.shields.io/badge/tests-82%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
 
-</td>
-<td width="50%" valign="top">
-
-**[🔍 Dhoondo (ढूँढो)](https://github.com/diksha-innovates/dhoondo)**
-
-"Go find it" — hybrid search engine for Instagram reels you saved or reposted, built because Instagram's own Saved tab has no search box.
-
-- Hybrid ranking: word + typo-tolerant character n-grams + topic signals, optional embedding similarity
-- Privacy-first: no login, no password, works entirely from your own data export
-- Dockerized FastAPI service, deploy-ready for Render / Railway / Fly.io
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker) ![License](https://img.shields.io/badge/license-MIT-green)
-
-</td>
-</tr>
-</table>
-
 > **🕵️ Caught & fixed:** My [Sleep-EEG analysis](https://github.com/diksha-innovates/Sleep-Analysis-Using-EEG-Signals) started as a Kaggle notebook whose "model accuracy" was fit on `np.random.randn()` and reported via `random.uniform(85, 95)`. I rebuilt it into a real, modular pipeline — genuine hypnogram labels, a real classifier, six honestly-evaluated forecasting models. Numbers you can trust beat numbers that merely look good.
+
+### ✨ Just for fun
+
+🔍 [Dhoondo](https://github.com/diksha-innovates/dhoondo) (ढूँढो, "go find it") — a weekend build so I could search my own saved Instagram reels, typos and all, since Instagram's Saved tab has no search box.
 
 ---
 
