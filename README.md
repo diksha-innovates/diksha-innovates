@@ -3,8 +3,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,sklearn" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=diksha-innovates&style=flat&color=38BDF8&label=profile+views" alt="profile views" />
 </div>
 
 <p align="center">
@@ -14,10 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile&card_width=420" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ---
