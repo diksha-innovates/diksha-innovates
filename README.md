@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineer • Building ML-powered Search & Recommenders</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,numpy,pandas,jupyter" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,sklearn" />
 </div>
 
 <p align="center">
