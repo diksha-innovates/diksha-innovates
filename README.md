@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile" alt="Most used languages" />
 </p>
 
 ---
