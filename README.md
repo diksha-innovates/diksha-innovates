@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Diksha 👋</h1>
-<h3 align="center">Systems Engineer • Building ML-powered Search & Recommenders</h3>
+<h3 align="center">Software Engineer • Building AI/ML Systems</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,sklearn" />
@@ -28,12 +28,12 @@
   <li>🧠 By choice: designing and shipping ML systems end-to-end — not notebooks, actual services with APIs, tests, and benchmarks.</li>
   <li>📈 I care about <b>measured</b> improvements over vibes — every side project ships with a baseline, an ablation, and a number that survives an interview question.</li>
   <li>🌱 Currently sharpening: ML system design, retrieval & ranking at scale, and the production side of applied ML (serving, evaluation, pgvector).</li>
-  <li>🎯 Working toward <b>Applied ML / Search &amp; Recommendation Systems</b> roles — this profile is the paper trail for that move.</li>
+  <li>🎯 Working toward <b>AI/ML Engineer / Applied ML</b> roles (recsys, search, applied CV/NLP) — this profile is the paper trail for that move.</li>
 </ul>
 
 ---
 
-### 🚀 Featured Build
+### 🚀 Featured Builds
 
 **[🎯 ReelRank](https://github.com/diksha-innovates/reelrank)** — Two-tower short-video recommender, pure NumPy (hand-written backprop), from scratch.
 
@@ -42,6 +42,22 @@
 - 82-case test suite, 3-seed ablation, served through a tested API with a cold-start endpoint
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![Tests](https://img.shields.io/badge/tests-82%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
+
+**[⚙️ tensor-graph-engine](https://github.com/diksha-innovates/tensor-graph-engine)** — A CPU tensor library + computation-graph executor built from scratch in C++20: the pieces that sit underneath a framework like PyTorch/NumPy.
+
+- Zero-copy `reshape`/`transpose` via real shape/stride views; cache-blocked matmul is **6–10x faster** than the naive loop at every size tested
+- Honestly benchmarked against NumPy/Accelerate BLAS, gap and all — no inflated comparisons
+- 64 GoogleTest cases + independent NumPy cross-checks, clean under ASan/UBSan
+
+![C++20](https://img.shields.io/badge/C%2B%2B-20-blue) ![Tests](https://img.shields.io/badge/tests-64%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
+
+**[🧠 Harmful-Content-Identifier](https://github.com/diksha-innovates/Harmful-Content-Identifier)** — Multi-class harmful-content image classifier (PyTorch), rebuilt from a notebook into a real training pipeline.
+
+- Per-class precision/recall/F1, macro-F1, and a confusion matrix computed every epoch — not just loss/accuracy
+- Class-weighted loss, LR-on-plateau scheduling, and early stopping on validation macro-F1
+- Added a genuine negative ("safe") class so precision/recall are actually meaningful, not just always-predict-harmful
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green)
 
 > **🕵️ Caught & fixed:** My [Sleep-EEG analysis](https://github.com/diksha-innovates/Sleep-Analysis-Using-EEG-Signals) started as a Kaggle notebook whose "model accuracy" was fit on `np.random.randn()` and reported via `random.uniform(85, 95)`. I rebuilt it into a real, modular pipeline — genuine hypnogram labels, a real classifier, six honestly-evaluated forecasting models. Numbers you can trust beat numbers that merely look good.
 
