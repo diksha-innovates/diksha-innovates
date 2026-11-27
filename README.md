@@ -23,9 +23,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diksha-innovates&theme=tokyo-night&hide_border=true&area=true" alt="Commit activity over time" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/koi/koi.gif" width="256" alt="A koi that grows and changes with my GitHub activity" />
-</p>
 
 ---
 
