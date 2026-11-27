@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Pixel-art desk scene showing a terminal with recent commits and a bookshelf">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#11162a"/>
+      <stop offset="100%" stop-color="#0a0e1f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="400" rx="18" fill="url(#bg)"/>
+  <!-- wallpaper stripes -->
+  <g opacity="0.25">
+    <rect x="40" y="0" width="10" height="330" fill="#1c2340"/>
+    <rect x="140" y="0" width="10" height="330" fill="#1c2340"/>
+    <rect x="240" y="0" width="10" height="330" fill="#1c2340"/>
+    <rect x="620" y="0" width="10" height="330" fill="#1c2340"/>
+    <rect x="720" y="0" width="10" height="330" fill="#1c2340"/>
+    <rect x="820" y="0" width="10" height="330" fill="#1c2340"/>
+  </g>
+
+  <!-- window -->
+  <rect x="48" y="40" width="150" height="130" fill="#13182e" stroke="#2a3155" stroke-width="6"/>
+  <rect x="54" y="46" width="66" height="58" fill="#6fb3f7"/>
+  <rect x="126" y="46" width="66" height="58" fill="#6fb3f7"/>
+  <rect x="54" y="110" width="66" height="54" fill="#6fb3f7"/>
+  <rect x="126" y="110" width="66" height="54" fill="#6fb3f7"/>
+  <!-- cloud -->
+  <g fill="#f4f7ff">
+    <rect x="62" y="68" width="34" height="10" rx="4"/>
+    <rect x="70" y="60" width="20" height="10" rx="4"/>
+  </g>
+  <!-- sun -->
+  <circle cx="160" cy="75" r="16" fill="#ffd166"/>
+  <rect x="40" y="170" width="166" height="10" fill="#4b3a2a"/>
+
+  <!-- nameplate -->
+  <rect x="350" y="54" width="180" height="46" rx="4" fill="#f2e9d8"/>
+  <text x="440" y="86" text-anchor="middle" font-family="'Courier New',monospace" font-size="26" font-weight="700" fill="#1b1b1b">DIKSHA</text>
+
+  <!-- clock -->
+  <circle cx="770" cy="86" r="34" fill="#f2e9d8" stroke="#1b1b1b" stroke-width="4"/>
+  <line x1="770" y1="86" x2="770" y2="64" stroke="#1b1b1b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="770" y1="86" x2="786" y2="94" stroke="#1b1b1b" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- desk -->
+  <rect x="300" y="300" width="330" height="14" fill="#5a3c25"/>
+  <rect x="312" y="314" width="14" height="60" fill="#3d2818"/>
+  <rect x="604" y="314" width="14" height="60" fill="#3d2818"/>
+
+  <!-- monitor -->
+  <rect x="332" y="150" width="266" height="156" rx="6" fill="#1b2136" stroke="#39406a" stroke-width="5"/>
+  <rect x="448" y="302" width="34" height="18" fill="#2a3155"/>
+  <rect x="346" y="162" width="238" height="128" fill="#060a16"/>
+  <text x="358" y="182" font-family="'Courier New',monospace" font-size="12" fill="#39d353">$ git log --oneline</text>
+  <text x="358" y="200" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">readme: remove language cards</text>
+  <text x="358" y="217" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">readme: drop activity graph</text>
+  <text x="358" y="234" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">readme: remove koi gif</text>
+  <text x="358" y="251" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">merge: readme-skin-2</text>
+  <rect x="358" y="262" width="7" height="13" fill="#39d353"/>
+
+  <!-- bookshelf -->
+  <rect x="686" y="150" width="140" height="10" fill="#5a3c25"/>
+  <rect x="686" y="210" width="140" height="10" fill="#5a3c25"/>
+  <rect x="694" y="108" width="16" height="42" fill="#ff8a5c"/>
+  <rect x="714" y="100" width="16" height="50" fill="#6fb3f7"/>
+  <rect x="734" y="112" width="16" height="38" fill="#ff5c93"/>
+  <rect x="754" y="104" width="16" height="46" fill="#39d353"/>
+  <rect x="774" y="110" width="16" height="40" fill="#ffd166"/>
+  <rect x="794" y="106" width="16" height="44" fill="#a371f7"/>
+
+  <!-- plant -->
+  <polygon points="78,374 118,374 110,336 86,336" fill="#8a5a33"/>
+  <g stroke="#3fae5c" stroke-width="6" stroke-linecap="round" fill="none">
+    <path d="M98,336 L98,296"/>
+    <path d="M98,320 L78,300"/>
+    <path d="M98,312 L118,294"/>
+    <path d="M98,304 L82,286"/>
+  </g>
+
+  <!-- floor -->
+  <rect x="0" y="330" width="860" height="70" fill="#1a1f33"/>
+  <rect x="0" y="330" width="860" height="6" fill="#2a3155"/>
+
+  <!-- sleeping cat -->
+  <g>
+    <ellipse cx="780" cy="358" rx="40" ry="18" fill="#e0a86a"/>
+    <polygon points="750,348 758,334 764,350" fill="#e0a86a"/>
+    <polygon points="762,346 768,332 774,348" fill="#e0a86a"/>
+    <path d="M818,356 Q838,350 834,336" stroke="#e0a86a" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <text x="800" y="320" font-family="'Courier New',monospace" font-size="16" fill="#8b949e">z Z</text>
+  </g>
+</svg>
