@@ -19,10 +19,6 @@
   <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diksha-innovates&theme=tokyo-night&hide_border=true&area=true" alt="Commit activity over time" />
-</p>
-
 
 ---
 
