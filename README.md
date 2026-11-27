@@ -10,6 +10,14 @@
 <b>Off the clock:</b> building production-structured ML systems end to end — recommenders, hybrid search, signal processing — with honest baselines and real numbers.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/skins/desk-scene.svg" alt="Pixel desk scene showing my latest commits and a bookshelf of languages" />
+</p>
+<p align="center"><sub>The monitor replays my latest commits; the shelf holds a book for each language I write.</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/skins/about-card.svg" alt="About, stats, and featured projects card" />
+</p>
 
 ---
 
