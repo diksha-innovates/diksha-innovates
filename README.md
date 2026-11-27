@@ -10,15 +10,6 @@
 <b>Off the clock:</b> building production-structured ML systems end to end — recommenders, hybrid search, signal processing — with honest baselines and real numbers.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-innovates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html,dockerfile&card_width=420" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
 
 ---
 
