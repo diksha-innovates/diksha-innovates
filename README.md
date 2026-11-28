@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Diksha 👋</h1>
-<h3 align="center">Software Engineer • Building AI/ML Systems</h3>
+<h3 align="center">C++ Developer • AI/ML Engineer</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,fastapi,sklearn" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,linux,bash,git,fastapi,sklearn" />
 </div>
 
 <p align="center">
 <b>Day job:</b> C++ runtime components for Linux-based HMI display systems.<br/>
-<b>Off the clock:</b> building production-structured ML systems end to end — recommenders, hybrid search, signal processing — with honest baselines and real numbers.
+<b>Off the clock:</b> building production-structured AI/ML systems end to end — recommenders, hybrid search, CV, tensor internals — with honest baselines and real numbers.
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/skins/desk-scene.svg" alt="Pixel desk scene showing my latest commits and a bookshelf of languages" />
 </p>
-<p align="center"><sub>The monitor replays my latest commits; the shelf holds a book for each language I write.</sub></p>
+<p align="center"><sub>The monitor replays my latest commits; the shelf holds a book for each tool in my C++/AI-ML stack.</sub></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diksha-innovates/diksha-innovates/main/skins/about-card.svg" alt="About, stats, and featured projects card" />
@@ -28,7 +28,7 @@
   <li>🧠 By choice: designing and shipping ML systems end-to-end — not notebooks, actual services with APIs, tests, and benchmarks.</li>
   <li>📈 I care about <b>measured</b> improvements over vibes — every side project ships with a baseline, an ablation, and a number that survives an interview question.</li>
   <li>🌱 Currently sharpening: ML system design, retrieval & ranking at scale, and the production side of applied ML (serving, evaluation, pgvector).</li>
-  <li>🎯 Working toward <b>AI/ML Engineer / Applied ML</b> roles (recsys, search, applied CV/NLP) — this profile is the paper trail for that move.</li>
+  <li>🎯 Targeting <b>C++ Developer</b> and <b>AI/ML Engineer</b> roles (systems-level C++, recsys, search, applied CV/NLP) — this profile is the paper trail for that move.</li>
 </ul>
 
 ---

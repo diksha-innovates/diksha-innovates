@@ -12,8 +12,8 @@
   <rect x="20" y="20" width="820" height="172" rx="10" fill="#10152a" stroke="#1f2742" stroke-width="1"/>
   <text x="46" y="58" class="mono" font-size="15" fill="#39d353">&gt; ABOUT</text>
   <text x="46" y="98" class="sans" font-size="28" font-weight="700" fill="#f0f3f8">Diksha</text>
-  <text x="46" y="126" class="sans" font-size="15" fill="#c9d1d9">Software Engineer building AI/ML systems — recsys, CV, and tensor</text>
-  <text x="46" y="147" class="sans" font-size="15" fill="#c9d1d9">internals from scratch. Currently shipping ReelRank.</text>
+  <text x="46" y="126" class="sans" font-size="15" fill="#c9d1d9">C++ Developer by day, AI/ML Engineer by build — tensor internals,</text>
+  <text x="46" y="147" class="sans" font-size="15" fill="#c9d1d9">recsys, and CV, all shipped with real tests and benchmarks.</text>
   <text x="46" y="176" class="mono" font-size="12" fill="#8b949e">Amity University'25 &#183; 2 followers &#183; 17 repositories &#183; 0 stars</text>
 
   <!-- stats panel -->
@@ -42,13 +42,13 @@
   <!-- project card template via 4 groups -->
   <g>
     <rect x="20" y="378" width="400" height="140" rx="10" fill="#10152a" stroke="#1f2742" stroke-width="1"/>
-    <rect x="40" y="398" width="56" height="56" rx="8" fill="#3b6fd9"/>
-    <text x="110" y="418" class="sans" font-size="17" font-weight="700" fill="#f0f3f8">dhoondo</text>
-    <text x="110" y="438" class="sans" font-size="13" fill="#9aa4b2">Find any Instagram reel you saved or</text>
-    <text x="110" y="454" class="sans" font-size="13" fill="#9aa4b2">reposted, by describing it.</text>
+    <rect x="40" y="398" width="56" height="56" rx="8" fill="#00599c"/>
+    <text x="110" y="418" class="sans" font-size="17" font-weight="700" fill="#f0f3f8">tensor-graph-engine</text>
+    <text x="110" y="438" class="sans" font-size="13" fill="#9aa4b2">CPU tensor library + graph executor,</text>
+    <text x="110" y="454" class="sans" font-size="13" fill="#9aa4b2">C++20 from scratch, 6-10x vs naive.</text>
     <text x="40" y="496" class="mono" font-size="12" fill="#39d353">&#9733; 0</text>
-    <circle cx="345" cy="492" r="5" fill="#3572A5"/>
-    <text x="357" y="496" class="mono" font-size="12" fill="#9aa4b2">Python</text>
+    <circle cx="345" cy="492" r="5" fill="#00599c"/>
+    <text x="357" y="496" class="mono" font-size="12" fill="#9aa4b2">C++</text>
   </g>
 
   <g>
