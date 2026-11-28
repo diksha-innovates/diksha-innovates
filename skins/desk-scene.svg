@@ -51,27 +51,27 @@
   <rect x="448" y="302" width="34" height="18" fill="#2a3155"/>
   <rect x="346" y="162" width="238" height="128" fill="#060a16"/>
   <text x="358" y="182" font-family="'Courier New',monospace" font-size="12" fill="#39d353">$ git log --oneline</text>
-  <text x="358" y="200" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">tensor-graph-engine: CI + ASan/UBSan</text>
-  <text x="358" y="217" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">plugin-system-cpp: add CI matrix</text>
-  <text x="358" y="234" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">reelrank: tune popularity prior</text>
-  <text x="358" y="251" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">digit-recognizer: fix CI install</text>
+  <text x="358" y="200" font-family="'Courier New',monospace" font-size="10.5" fill="#8b949e">tensor-graph: CI+ASan/UBSan</text>
+  <text x="358" y="217" font-family="'Courier New',monospace" font-size="10.5" fill="#8b949e">plugin-system-cpp: CI matrix</text>
+  <text x="358" y="234" font-family="'Courier New',monospace" font-size="10.5" fill="#8b949e">reelrank: tune pop. prior</text>
+  <text x="358" y="251" font-family="'Courier New',monospace" font-size="10.5" fill="#8b949e">digit-recognizer: fix CI</text>
   <rect x="358" y="262" width="7" height="13" fill="#39d353"/>
 
   <!-- bookshelf: one book per tool in the C++ / AI-ML stack -->
   <rect x="686" y="150" width="140" height="10" fill="#5a3c25"/>
   <rect x="686" y="210" width="140" height="10" fill="#5a3c25"/>
   <rect x="694" y="108" width="16" height="42" fill="#00599c"/>
-  <text x="702" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="7" fill="#f2e9d8">C++</text>
+  <text x="702" y="129" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="7" fill="#f2e9d8" transform="rotate(-90 702 129)">C++</text>
   <rect x="714" y="100" width="16" height="50" fill="#3572A5"/>
-  <text x="722" y="112" text-anchor="middle" font-family="'Courier New',monospace" font-size="7" fill="#f2e9d8">Py</text>
+  <text x="722" y="125" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="6.5" fill="#f2e9d8" transform="rotate(-90 722 125)">Python</text>
   <rect x="734" y="112" width="16" height="38" fill="#ee4c2c"/>
-  <text x="742" y="124" text-anchor="middle" font-family="'Courier New',monospace" font-size="6" fill="#f2e9d8">Torch</text>
+  <text x="742" y="131" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="6" fill="#f2e9d8" transform="rotate(-90 742 131)">PyTorch</text>
   <rect x="754" y="104" width="16" height="46" fill="#013243"/>
-  <text x="762" y="116" text-anchor="middle" font-family="'Courier New',monospace" font-size="6" fill="#f2e9d8">NumPy</text>
+  <text x="762" y="127" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="6.5" fill="#f2e9d8" transform="rotate(-90 762 127)">NumPy</text>
   <rect x="774" y="110" width="16" height="40" fill="#ffd166"/>
-  <text x="782" y="122" text-anchor="middle" font-family="'Courier New',monospace" font-size="7" fill="#1b1b1b">Lnx</text>
+  <text x="782" y="130" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="6.5" fill="#1b1b1b" transform="rotate(-90 782 130)">Linux</text>
   <rect x="794" y="106" width="16" height="44" fill="#4eaa25"/>
-  <text x="802" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="7" fill="#1b1b1b">Bash</text>
+  <text x="802" y="128" text-anchor="middle" dominant-baseline="central" font-family="'Courier New',monospace" font-size="6.5" fill="#1b1b1b" transform="rotate(-90 802 128)">Bash</text>
 
   <!-- plant -->
   <polygon points="78,374 118,374 110,336 86,336" fill="#8a5a33"/>
